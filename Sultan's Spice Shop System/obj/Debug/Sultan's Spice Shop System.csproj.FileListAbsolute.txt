@@ -1,0 +1,10 @@
+c:\users\dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\bin\Debug\Sultan's Spice Shop System.exe.config
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\bin\Debug\Sultan's Spice Shop System.exe
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\bin\Debug\Sultan's Spice Shop System.pdb
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\bin\Debug\MaterialSkin.dll
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\obj\Debug\Sultan's Spice Shop System.csprojResolveAssemblyReference.cache
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\obj\Debug\Sultan_s_Spice_Shop_System.Form1.resources
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\obj\Debug\Sultan_s_Spice_Shop_System.Properties.Resources.resources
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\obj\Debug\Sultan's Spice Shop System.csproj.GenerateResource.Cache
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\obj\Debug\Sultan's Spice Shop System.exe
+C:\Users\Dorze\documents\visual studio 2015\Projects\Sultan's Spice Shop System\Sultan's Spice Shop System\obj\Debug\Sultan's Spice Shop System.pdb
